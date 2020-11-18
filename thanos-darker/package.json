@@ -1,0 +1,21 @@
+{
+    "name": "thanos-darker",
+    "displayName": "thanos-darker",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "thanos-darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/thanos-darker-color-theme.json"
+            }
+        ]
+    }
+}
