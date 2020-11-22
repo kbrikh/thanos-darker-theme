@@ -1,8 +1,10 @@
 {
     "name": "thanos-darker",
     "displayName": "thanos-darker",
-    "description": "",
-    "version": "0.0.1",
+    "description": "A dark theme for vscode",
+    "version": "1.0.0",
+    "icon": "icon.png",
+    "publisher": "kbrikh",
     "engines": {
         "vscode": "^1.45.0"
     },

@@ -17,8 +17,8 @@ A personal theme for vscode.
 
 ## Getting Started
 
-- copy thanos-darker to vscode theme folder
-- Activate it for from your IDE
+-   copy thanos-darker to vscode theme folder
+-   Activate it for from your IDE
 
 ## Contributing
 
